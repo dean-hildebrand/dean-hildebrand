@@ -4,8 +4,6 @@
 
 Building production Rails and React systems at GoCanvas, with a focus on AI-powered features and developer-facing APIs.
 
-Currently working on **Family OS**, a household coordination PWA, in my spare time.
-
 Relocating to Amsterdam in mid-2026 and open to senior IC roles at remote-first or NL-based product companies. EU citizen (German passport) — no sponsorship required.
 
 ---
