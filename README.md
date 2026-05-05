@@ -1,6 +1,6 @@
 # Dean Hildebrand
 
-**Senior Software Engineer**
+**Software Engineer**
 
 Building production Rails and React systems at GoCanvas, with a focus on AI-powered features and developer-facing APIs.
 
